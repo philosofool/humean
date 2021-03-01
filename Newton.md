@@ -1,3 +1,5 @@
+This was an educational thing I wrote for elementary kids.
+
 # Isaac Netwon's Theory of Gravity
 
 Isaac Newton is sometimes said to be the discoverer of gravity. Gravity is the name for the force that causes objects to fall toward the Earth. Newton wrote about his "discovery" in a book he wrote in 1688. Of course, people knew that objects fall to the Earth long before 1688. We've known that since before there were books! 
